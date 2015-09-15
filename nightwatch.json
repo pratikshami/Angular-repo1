@@ -25,7 +25,7 @@
   "test_settings" : {
     "default" : {
       "launch_url" : "172.27.59.185",
-      "selenium_host" : "172.27.59.234",
+      "selenium_host" : "172.27.59.103",
       "selenium_port" : 4444,
       "silent" : true,
       "disable_colors": false,
