@@ -32,7 +32,7 @@ emp.city = req.body.city;
       return res.send(err);
     }
  
-    res.send({ message: 'employee Added'});
+   // res.send({ message: 'employee Added'});
    res.json(data);
 
 
