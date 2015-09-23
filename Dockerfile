@@ -14,6 +14,7 @@ ADD node_modules node_modules
 ADD models models
 ADD html html
 ADD examples examples
+ADD jshint-report jshint-report
 ADD lib lib
 ADD target target
 ADD routes routes
