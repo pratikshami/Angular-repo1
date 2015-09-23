@@ -16,6 +16,8 @@ ADD html html
 ADD examples examples
 ADD jshint-report jshint-report
 ADD lib lib
+ADD mocha-report mocha-report
+ADD coverage coverage
 ADD target target
 ADD routes routes
 ADD gatling gatling
