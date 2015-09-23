@@ -18,6 +18,7 @@ ADD lib lib
 ADD target target
 ADD routes routes
 ADD gatling gatling
+ADD tests tests
 ADD app.js gulpfile.js package.json selenium-server-standalone-2.47.1.jar nightwatch.json nightwatch.js ./
 
 #Setting timezone to match time zone of sonar server
